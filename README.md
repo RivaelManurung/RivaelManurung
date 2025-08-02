@@ -1,12 +1,11 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 # 👋 Hi, I'm Rivael Hasiholan Manurung!
 
 I'm a **Full-Stack Developer** from Indonesia with a passion for crafting robust, scalable, and user-friendly applications. As a back-end engineer, I specialize in building seamless server-side systems using **Node.js**, **PHP**, **Java**, and **Golang**, with deep expertise in the **Laravel** framework. On the front end, I create dynamic and responsive interfaces with **React.js** and **Next.js**. I'm also proficient in managing **SQL** and **NoSQL** databases to ensure efficient data handling.
 
 My focus is on writing clean, maintainable code, following best practices, and delivering high-quality solutions that optimize performance and enhance user experiences. I thrive on bridging the gap between front-end and back-end development to create cohesive, end-to-end systems.
 
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="coding gif" />
-</p>
+
 
 ---
 
