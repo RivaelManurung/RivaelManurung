@@ -90,7 +90,7 @@ func (r *Rivael) Philosophy() []string {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rivael_Manurung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-info@kreasinusantara.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kreasinusantara.id)
+[![Email](https://img.shields.io/badge/Email-rivaelmanurung3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kreasinusantara.id)
 [![Instagram](https://img.shields.io/badge/Instagram-@rivael__m-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rivael_m/?hl=en)
 
 <br/>
